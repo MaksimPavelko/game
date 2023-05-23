@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\bin\Debug\TextEditionPavelko.exe.config
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\bin\Debug\TextEditionPavelko.exe
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\bin\Debug\TextEditionPavelko.pdb
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\obj\Debug\TextEditionPavelko.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\obj\Debug\TextEditionPavelko.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\obj\Debug\TextEditionPavelko.Form1.resources
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\obj\Debug\TextEditionPavelko.Properties.Resources.resources
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\obj\Debug\TextEditionPavelko.csproj.GenerateResource.cache
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\obj\Debug\TextEditionPavelko.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\obj\Debug\TextEditionPavelko.exe
+C:\Users\student\Desktop\TextEdition\TextEditionPavelko\TextEditionPavelko\obj\Debug\TextEditionPavelko.pdb
